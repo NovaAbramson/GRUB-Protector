@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Релиз-1.0-brightgreen.svg" alt="version">
-  <a href="https://firtreelicense.firtreeuniversity.education"><img src="https://img.shields.io/badge/Лицензия-FTL-blue" alt="licanse"></a>
+  <a href="https://firtreelicense.firtreeuniversity.education"><img src="https://img.shields.io/badge/Лицензия-FTL%20v1-blue" alt="licanse"></a>
 </p>
 
 <p align="center">
